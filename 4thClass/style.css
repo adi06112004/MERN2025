@@ -1,0 +1,38 @@
+body{
+    background-color: lightgrey;
+
+}
+
+.text-red{
+    color: red;
+}
+.text-yellow{
+    color: red;
+    text-decoration: underline;
+}
+.flex{
+    display: flex;
+}
+.gap-10{
+    gap: 10px;
+}
+h2{
+    text-decoration: underline;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+article > a {
+    color:blue;
+}
+
+img{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+article {
+    margin-bottom: 10px;
+}
